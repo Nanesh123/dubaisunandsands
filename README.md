@@ -26,4 +26,4 @@ Follow the steps
     <!-- flutter_native_splash:
   image: assets/images/logo_splash.png -->
 
-  - [step-3] run this command "flutter pub run flutter_native_splash:create"
+- [step-3] run this command "flutter pub run flutter_native_splash:create"
