@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+- update app icon follow the link [https://icon.kitchen]
+- you wnat to change splash screen 
+- [step-1]  add image to asset folder 
+- [step-2]  update the path pubspec.yaml
+    <!-- flutter_native_splash:
+  image: assets/images/logo_splash.png -->
+
+  - [step-3] run this command "flutter pub run flutter_native_splash:create"
